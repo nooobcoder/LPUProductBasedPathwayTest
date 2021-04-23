@@ -4,6 +4,11 @@ import java.io.*;
 import java.util.ArrayList;
 import java.util.Collections;
 
+/* Submission by: Ankur Paul
+Passing Batch: 2023
+ID: 11901599
+https://www.hackerrank.com/AnkurPaul */
+
 public class Solution {
 
     final int SIZE = 26;

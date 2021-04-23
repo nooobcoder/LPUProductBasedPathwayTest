@@ -6,6 +6,11 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.StringTokenizer;
 
+/* Submission by: Ankur Paul
+Passing Batch: 2023
+ID: 11901599
+https://www.hackerrank.com/AnkurPaul */
+
 public class Solution {
     ArrayList<Integer> arrayStore;
     ArrayList<ArrayList<Integer>> filteredStore;
